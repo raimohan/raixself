@@ -1,0 +1,10 @@
+{
+    "token": "YOUR_DISCORD_ID_TOKEN",
+    "prefix": ".",
+    "userid": "YOUR_DISCORD_USERID",
+    "ltc_address": "YOUR_LTC_ADDY",
+    "ltckey": "YOUR_LTC_WALLET_KEY",
+    "apikey": "t-6a6da72a3ce8b724a5eb7018-20c7c119a2c442e69000ec02",
+    "groq_key": "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",
+    "coingecko_key": "CG-b7oNdCnKqRh8U8hvKBZocN7Q"
+}
